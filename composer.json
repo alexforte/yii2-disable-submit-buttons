@@ -1,5 +1,5 @@
 {
-    "name": "faryshta/yii2-disable-submit-buttons",
+    "name": "alexforte/yii2-disable-submit-buttons",
     "description": "Yii2 asset to automatically disable submit buttons on Yii2 ActiveForm.",
     "keywords": [
         "yii",
